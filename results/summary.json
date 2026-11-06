@@ -1,0 +1,41 @@
+{
+  "camera_model_exif": "OPPO A78",
+  "image_size_px": [
+    3072,
+    4080
+  ],
+  "pattern_inner_corners": [
+    8,
+    5
+  ],
+  "square_mm": 20.0,
+  "images_used": 11,
+  "images_total": 93,
+  "rms_px": 6.593593141813961,
+  "mean_reproj_error_px": 6.5046000480651855,
+  "fx_px": 3413.585134154265,
+  "fy_px": 3389.2291261767327,
+  "cx_px": 1536.7208158743992,
+  "cy_px": 2047.1518047595398,
+  "distortion_k1_k2_p1_p2_k3": [
+    0.16955506929296238,
+    -0.8930445551897432,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "sensor_mm": [
+    26.350532395646447,
+    34.99680083796794
+  ],
+  "sensor_source": "estimé via l'EXIF (crop factor = 0.99)",
+  "fov_deg": [
+    48.45232580796114,
+    62.087875098759845
+  ],
+  "focal_mm": 29.280529187118837,
+  "focal_m": 0.029280529187118837,
+  "pixel_size_um": 8.577647264207828,
+  "exif_focal_mm": 4.05,
+  "exif_focal_35mm": 4.0
+}
